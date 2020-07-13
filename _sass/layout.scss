@@ -546,7 +546,7 @@ nav > ul li a:active {
 		// padding-top: 41px;
 		padding-left: 15px;
 		padding-right: 15px;
-		width: 100%/3;
+		width: calc(100%/3);
 	}
 
 	.feature:nth-child(-n+3) {
@@ -581,7 +581,7 @@ nav > ul li a:active {
 		// padding-top: 41px;
 		padding-left: 4px;
 		padding-right: 4px;
-		width: 100%/2;
+		width: calc(100%/2);
 	}
 
 	.feature:nth-child(-n+3) {
