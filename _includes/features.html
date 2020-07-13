@@ -1,3 +1,6 @@
+<div>
+  <h2>Our large range</h2>
+</div>
 <div class="features">
     {% for feature in site.features %}
 
@@ -5,20 +8,12 @@
     <div class="feature">
         <div>
             <img src="{{ feature.icon }}" style="height: 80px; width: auto; background-color: #eeeeee;border-radius: 40px;">
-            <span class='icon' style="{{ feature.icon }}"></span>
-            <!-- span class="fa-stack fa-1x">
-                <i class="iconBack fas fa-circle fa-stack-2x"></i>
-                <i class="iconTop fas fa-{{ feature.fontawesome_icon_name }} fa-stack-1x"></i>
-            </span -->
-        </div>
-        <div class="featureText">
-            <h3>
-                {{ feature.title }}
-            </h3>
             <p>
-                {{ feature.description }}
+                {{ feature.title }}
             </p>
         </div>
+<!--         <div class="featureText">
+        </div> -->
     </div>
     {% endif %}
 
