@@ -34,75 +34,75 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
+  - title                                 : Bundles
     description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
     icon                                  : assets/icons/bundles.png
 
-  - title                                 : iPhone Device Preview
+  - title                                 : Hot / Specials
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
     icon                                  : assets/icons/hot.png
 
-  - title                                 : Video Support
+  - title                                 : Drinks
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
     icon                                  : assets/icons/drinks.png
 
-  - title                                 : Automatic Icon and Metadata
+  - title                                 : Frozen
     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
     icon                                  : assets/icons/freezer.png
 
-  - title                                 : Easy to Tweak
+  - title                                 : Fridge / Deli / Eggs
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
     icon                                  : assets/icons/fridge.png
 
-  - title                                 : Feature List
+  - title                                 : Fruit and Vege
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
     icon                                  : assets/icons/fruitAndVeg.png
 
-  - title                                 : Smart App Banner
+  - title                                 : Health and Beauty
     description                           : Display a smart app banner on iOS devices.
     icon                                  : assets/icons/health.png
 
-  - title                                 : Social Links
+  - title                                 : Hotpot
     description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
     icon                                  : assets/icons/hotpot.png
 
-  - title                                 : FontAwesome Support
+  - title                                 : Household Products
     description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
     icon                                  : assets/icons/household.png
 
-  - title                                 : GitHub Pages Jekyll Theme
+  - title                                 : Instant Foods
     description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
     icon                                  : assets/icons/instant.png
 
-  - title                                 : iPhone Device Preview
+  - title                                 : Japanese
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
     icon                                  : assets/icons/japanese.png
 
-  - title                                 : Video Support
+  - title                                 : Korean
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
     icon                                  : assets/icons/korean.png
 
-  - title                                 : Automatic Icon and Metadata
+  - title                                 : Liquor
     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
     icon                                  : assets/icons/liquor.png
 
-  - title                                 : Easy to Tweak
+  - title                                 : Meat
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
     icon                                  : assets/icons/meat.png
 
-  - title                                 : Feature List
+  - title                                 : Kitchen Pantry
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
     icon                                  : assets/icons/pantry.png
 
-  - title                                 : Smart App Banner
+  - title                                 : Rice / Flour / Grains
     description                           : Display a smart app banner on iOS devices.
     icon                                  : assets/icons/rice.png
 
-  - title                                 : Social Links
+  - title                                 : Seafood
     description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
     icon                                  : assets/icons/seafood.png
 
-  - title                                 : FontAwesome Support
+  - title                                 : Snacks
     description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
     icon                                  : assets/icons/snacks.png
 
