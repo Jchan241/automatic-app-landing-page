@@ -483,7 +483,7 @@ nav > ul li a:active {
 }
 
 .feature {
-	padding-top: 8px;
+	// padding-top: 8px;
   margin-top: 8px;
 	padding-left: 15px;
 	padding-right: 15px;
@@ -491,7 +491,7 @@ nav > ul li a:active {
 }
 
 .feature:nth-child(-n+3) {
-    padding-top: 0px;
+    // padding-top: 0px;
 }
 
 .feature:nth-child(3n) {
@@ -543,18 +543,18 @@ nav > ul li a:active {
 
 	.feature {
 		display: flex;
-		padding-top: 41px;
+		// padding-top: 41px;
 		padding-left: 15px;
 		padding-right: 15px;
 		width: 100%;
 	}
 
 	.feature:nth-child(-n+3) {
-		padding-top: 41px;
+		// padding-top: 41px;
 	}
 
 	.feature:nth-child(1) {
-		padding-top: 0px;
+		// padding-top: 0px;
 	}
 
 	.feature:nth-child(3n) {
@@ -578,18 +578,18 @@ nav > ul li a:active {
 
 	.feature {
 		display: flex;
-		padding-top: 41px;
+		// padding-top: 41px;
 		padding-left: 0px;
 		padding-right: 0px;
 		width: 100%;
 	}
 
 	.feature:nth-child(-n+3) {
-		padding-top: 41px;
+		// padding-top: 41px;
 	}
 
 	.feature:nth-child(1) {
-		padding-top: 0px;
+		// padding-top: 0px;
 	}
 
 	.feature:nth-child(3n) {
