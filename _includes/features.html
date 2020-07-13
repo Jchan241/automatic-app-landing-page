@@ -1,17 +1,18 @@
 <div class="features">
-    {% for feature in site.features %}
+  <h2>Our range</h2>
+  {% for feature in site.features %}
 
     {% if feature.title %}
-    <div class="feature">
+      <div class="feature">
         <div style="text-align: center">
             <img src="{{ feature.icon }}" style="height: 80px; width: auto; background-color: #eeeeee;border-radius: 40px; padding-bottom: 8px;">
             <p>
                 {{ feature.title }}
             </p>
         </div>
-<!--         <div class="featureText">
-        </div> -->
-    </div>
+    <!--         <div class="featureText">
+          </div> -->
+      </div>
     {% endif %}
 
     {% endfor %}
