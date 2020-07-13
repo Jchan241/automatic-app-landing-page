@@ -579,9 +579,9 @@ nav > ul li a:active {
 	.feature {
 		display: flex;
 		// padding-top: 41px;
-		padding-left: 0px;
-		padding-right: 0px;
-		width: 100%;
+		padding-left: 4px;
+		padding-right: 4px;
+		width: 100%/2;
 	}
 
 	.feature:nth-child(-n+3) {
